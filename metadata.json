@@ -1,0 +1,6 @@
+{
+  "name": "WorkSphere — Personal Productivity OS",
+  "description": "A local-first personal productivity operating system uniting projects, tasks, calendar scheduling, knowledge base notes, habits, goals, time tracking, focus studio, workflow automation, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
